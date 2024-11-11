@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CPIT-405-ProgressBar/static/css/main.76d767cb.css",
+    "main.js": "/CPIT-405-ProgressBar/static/js/main.ec86d5f7.js",
+    "static/js/453.fc01f49c.chunk.js": "/CPIT-405-ProgressBar/static/js/453.fc01f49c.chunk.js",
+    "index.html": "/CPIT-405-ProgressBar/index.html",
+    "main.76d767cb.css.map": "/CPIT-405-ProgressBar/static/css/main.76d767cb.css.map",
+    "main.ec86d5f7.js.map": "/CPIT-405-ProgressBar/static/js/main.ec86d5f7.js.map",
+    "453.fc01f49c.chunk.js.map": "/CPIT-405-ProgressBar/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76d767cb.css",
+    "static/js/main.ec86d5f7.js"
+  ]
+}
